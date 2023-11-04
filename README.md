@@ -1,8 +1,7 @@
-### Oie, I am Grasi and am currently learning the basic of web development :)
+### Oie, I am Grasi 
 
 
-
-- 🌱 I’m currently learning Web Development at Spiced Academy 
+- 🌱 I'm currently learning the basic of web development at neue fische
 - 🤔 I’m looking for help with Shell and Markdown. If you stumble upon my profile and have some fun treasure hunt to practice Shell, send me the link :)
 - 💬 Ask me about Manaus, Brazilian music and food in general 
 - 😄 Pronouns: she/her
