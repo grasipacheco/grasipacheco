@@ -2,11 +2,11 @@
 
 
 
-🌱 I’m currently learning Web Development at Spiced Academy 
-🤔 I’m looking for help with Shell and Markdown. If you stumble upon my profile and have some fun treasure hunt to practice Shell, send me the link :)
-💬 Ask me about Manaus, Brazilian music, food
-😄 Pronouns: she/her
-⚡ Fun fact: I decided to live with the person I am living with at the moment based on a five-minute conversation
+- 🌱 I’m currently learning Web Development at Spiced Academy 
+- 🤔 I’m looking for help with Shell and Markdown. If you stumble upon my profile and have some fun treasure hunt to practice Shell, send me the link :)
+- 💬 Ask me about Manaus, Brazilian music, food
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I decided to live with the person I am living with at the moment based on a five-minute conversation
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
