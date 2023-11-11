@@ -2,14 +2,13 @@
 
 I am currently learning the basic of web development at neuefische as a career change. I spend most of my time around practicing box, yoga, dancing forro, being a volunteer teacher at ReDi School, cooking with my friends and coding ⚡
 
-![(https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)]
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 
 <!--
 **grasipacheco/grasipacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+ ![(https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)]
 
 Here are some ideas to get you started:
 
