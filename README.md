@@ -2,7 +2,7 @@
 
 I am currently learning the basic of web development at neuefische as a career change. I spend most of time around practicing box, yoga, dancing forro, being a volunteer teacher at ReDi School and cooking with my friends ⚡
 
-<iframe src="https://giphy.com/embed/13HBDT4QSTpveU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU">via GIPHY</a></p>
+img src="https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU">
   
 
 
