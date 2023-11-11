@@ -2,7 +2,7 @@
 
 ![giphy](https://github.com/grasipacheco/grasipacheco/assets/48388613/986bf49d-66ef-4062-a765-1c3b54034809)
 
-I am currently learning the basic of web development at neuefische as a career change. I spend most of my time around practicing box, yoga, dancing forro, being a volunteer teacher at ReDi School, cooking with my friends and coding ⚡
+I am currently learning the basic of web development at neuefische as a career change. I spend most of my time around practicing boxe, yoga, dancing forro, being a volunteer teacher at ReDi School, cooking with my friends and coding ⚡
 
 
 -   Fun fact: I decided to live with the person I am living with at the moment based on a five-minute conversation
