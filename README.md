@@ -7,7 +7,7 @@ I am currently learning the basic of web development at neuefische as a career c
 
 -   Fun fact: I decided to live with the person I am living with at the moment based on a five-minute conversation
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" height="100" margin-left="auto" margin-right="auto"> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" height="100" margin-left="auto" margin-right="auto" display="block"> 
 
 
 <!--
